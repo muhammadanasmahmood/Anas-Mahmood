@@ -11,15 +11,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=plastic&logo=joomla&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="margin: 5px;" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-mahmood&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="margin: 5px;" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="margin: 5px;" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=anas-mahmood&theme=radical&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anas-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="anas-mahmood" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="anas-mahmood" /> </p>
 
 ## 🏆 GitHub Trophies
 <div align="center">
