@@ -9,59 +9,49 @@
 
 <!-- GitHub Trophy -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=darkhub" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://twitter.com/iamanasmahmood" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/iamanasmahmood?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/anasmahmood000" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/anasmahmood000" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-orange" alt="Kaggle" />
-  </a>
-  <a href="https://instagram.com/anas.art_works" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-red" alt="Instagram" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=darkhub" alt="GitHub Trophies" />
 </p>
 
 <!-- Bio -->
-- 🔭 I’m currently working on something special
-- 🌱 I’m currently learning Natural Language Processing (NLP)
-- 👯 I’m looking to collaborate on Real World Data Science and AI Projects
-- 🤝 I’m looking for help with getting a Job
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Anas-Mahmood?tab=repositories)
-- 📝 I regularly write articles on [LinkedIn](https://linkedin.com/in/anasmahmood000)
-- 💬 Ask me about anything
-- 📫 How to reach me: [anas.aiengineer@gmail.com](mailto:anas.aiengineer@gmail.com)
-- ⚡ Fact about me: Hard worker as well as Smart worker
+<p align="center">🔭 I’m currently working on something special</p>
+<p align="center">🌱 I’m currently learning Natural Language Processing (NLP)</p>
+<p align="center">👯 I’m looking to collaborate on Real World Data Science and AI Projects</p>
+<p align="center">🤝 I’m looking for help with getting a Job</p>
+<p align="center">👨‍💻 All of my projects are available at <a href="https://github.com/Anas-Mahmood?tab=repositories">My GitHub Repositories</a></p>
+<p align="center">📝 I regularly write articles on <a href="https://linkedin.com/in/anasmahmood000">LinkedIn</a></p>
+<p align="center">💬 Ask me about anything</p>
+<p align="center">📫 How to reach me: <a href="mailto:anas.aiengineer@gmail.com">anas.aiengineer@gmail.com</a></p>
+<p align="center">⚡ Fact about me: Hard worker as well as Smart worker</p>
 
 <!-- Connect with Me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/iamanasmahmood" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" />
   </a>
   <a href="https://linkedin.com/in/anasmahmood000" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://kaggle.com/anasmahmood000" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" />
   </a>
   <a href="https://instagram.com/anas.art_works" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
 </p>
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <!-- Add icons for languages and tools here -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40" />
 </p>
 
 <!-- GitHub Stats -->
