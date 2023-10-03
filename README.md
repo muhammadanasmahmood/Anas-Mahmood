@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anas Mahmood</h1>
 <h3 align="center">A passionate Artificial Intelligence(AI) Engineer from Pakistan.</h3>
 
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <div style="margin: 5px;">
+
 # 💫 𝔸𝔹𝕆𝕌𝕋 𝕄𝔼:
 🔭 I’m currently working on **something special**<br><br>🌱 I’m currently learning **Natural Language Processing(NLP)**<br><br>👯 I’m looking to collaborate on **Real World Data Science and AI Projects**<br><br>🤝 I’m looking for help with **getting a Job**<br><br>👨‍💻 All of my projects are available at [https://github.com/Anas-Mahmood?tab=repositories](https://github.com/Anas-Mahmood?tab=repositories)<br><br>📝 I regularly write articles on [https://linkedin.com/anasmahmood000](https://linkedin.com/anasmahmood000)<br><br>💬 Ask me about **anything**<br><br>📫 How to reach me **anas.aiengineer@gmail.com**<br><br>⚡ Fact about me **Hard worker as well as Smart worker.**
-  </div>
+
 ## 🌐 𝕊𝕆ℂ𝕀𝔸𝕃𝕊:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anasmahmood000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anas.art_works) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anasmahmood000) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamanasmahmood) 
 # 💻 𝕋𝔼ℂℍ 𝕊𝕋𝔸ℂ𝕂:
