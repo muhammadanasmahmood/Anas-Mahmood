@@ -12,10 +12,19 @@
 
 ## 📊 𝔾𝕀𝕋ℍ𝕌𝔹 𝕊𝕋𝔸𝕋𝕊:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="margin: 5px; max-width: 100%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-mahmood&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="margin: 5px; max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="margin: 5px; max-width: 100%;" />
+  <div style="display: flex; justify-content: center;">
+    <div style="margin: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="max-width: 100%;" />
+    </div>
+    <div style="margin: 5px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-mahmood&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%;" />
+    </div>
+    <div style="margin: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width: 100%;" />
+    </div>
+  </div>
 </div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anas-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="anas-mahmood" /> </p>
 
