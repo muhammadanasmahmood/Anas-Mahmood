@@ -9,7 +9,7 @@
 
 <!-- GitHub Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=darkhub" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 <!-- Bio -->
@@ -27,16 +27,16 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/iamanasmahmood" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/anasmahmood000" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&color=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://kaggle.com/anasmahmood000" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&color=20BEFF" alt="Kaggle" />
   </a>
   <a href="https://instagram.com/anas.art_works" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="Instagram" />
   </a>
 </p>
 
@@ -56,9 +56,9 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-mahmood&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-mahmood&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-mahmood" alt="GitHub Streak Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-mahmood&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-mahmood&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-mahmood&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 <!-- Contribution Graph -->
