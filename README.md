@@ -65,10 +65,15 @@
 </p>
 
 <!-- GitHub Stats and Charts -->
+
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-mahmood&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="margin: 5px;" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-mahmood&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" style="margin: 5px;" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anas-mahmood&theme=dark" alt="GitHub Streak Stats" style="margin: 5px;" />
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=anas-mahmood&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="margin: 5px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/contributions-calendar?username=anas-mahmood&theme=dark" style="margin: 5px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/most-popular?username=anas-mahmood&theme=dark" style="margin: 5px;" />
+</p>
+
 </p>
 </body>
