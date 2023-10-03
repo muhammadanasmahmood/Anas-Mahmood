@@ -1,9 +1,11 @@
 <!-- Body with Background Color -->
-<body style="background-color: #ADD8E6;">
+<body style="background-color: #F0F2F5;">
 
 <!-- Header with Styled Headings -->
-<h1 style="font-family: 'Arial', sans-serif; color: #333; text-align: center;">Hi there 👋, I'm Anas Mahmood</h1>
-<h2 style="font-family: 'Arial', sans-serif; color: #444; text-align: center;">A passionate Artificial Intelligence (AI) Engineer from Pakistan</h2>
+<div align="center">
+  <h1 style="font-family: 'Arial', sans-serif; color: #333;">Hi there 👋, I'm Anas Mahmood</h1>
+  <h2 style="font-family: 'Arial', sans-serif; color: #555;">A passionate Artificial Intelligence (AI) Engineer from Pakistan</h2>
+</div>
 
 <!-- Profile Views -->
 <p align="center">
@@ -16,21 +18,27 @@
 </p>
 
 <!-- Bio Heading -->
-<h3 style="font-family: 'Arial', sans-serif; color: #555; text-align: left;">Bio:</h3>
+<div align="left">
+  <h3 style="font-family: 'Arial', sans-serif; color: #444;">Bio:</h3>
+</div>
 
 <!-- Bio Content -->
-<p style="font-family: 'Arial', sans-serif; color: #666; text-align: left;">🔭 I’m currently working on something special</p>
-<p style="font-family: 'Arial', sans-serif; color: #666; text-align: left;">🌱 I’m currently learning Natural Language Processing (NLP)</p>
-<p style="font-family: 'Arial', sans-serif; color: #666; text-align: left;">👯 I’m looking to collaborate on Real World Data Science and AI Projects</p>
-<p style="font-family: 'Arial', sans-serif; color: #666; text-align: left;">🤝 I’m looking for help with getting a Job</p>
-<p style="font-family: 'Arial', sans-serif; color: #666; text-align: left;">👨‍💻 All of my projects are available at <a href="https://github.com/Anas-Mahmood?tab=repositories">My GitHub Repositories</a></p>
-<p style="font-family: 'Arial', sans-serif; color: #666; text-align: left;">📝 I regularly write articles on <a href="https://linkedin.com/in/anasmahmood000">LinkedIn</a></p>
-<p style="font-family: 'Arial', sans-serif; color: #666; text-align: left;">💬 Ask me about anything</p>
-<p style="font-family: 'Arial', sans-serif; color: #666; text-align: left;">📫 How to reach me: <a href="mailto:anas.aiengineer@gmail.com">anas.aiengineer@gmail.com</a></p>
-<p style="font-family: 'Arial', sans-serif; color: #666; text-align: left;">⚡ Fact about me: Hard worker as well as Smart worker</p>
+<div align="left">
+  <p style="font-family: 'Arial', sans-serif; color: #666;">🔭 I’m currently working on something special</p>
+  <p style="font-family: 'Arial', sans-serif; color: #666;">🌱 I’m currently learning Natural Language Processing (NLP)</p>
+  <p style="font-family: 'Arial', sans-serif; color: #666;">👯 I’m looking to collaborate on Real World Data Science and AI Projects</p>
+  <p style="font-family: 'Arial', sans-serif; color: #666;">🤝 I’m looking for help with getting a Job</p>
+  <p style="font-family: 'Arial', sans-serif; color: #666;">👨‍💻 All of my projects are available at <a href="https://github.com/Anas-Mahmood?tab=repositories">My GitHub Repositories</a></p>
+  <p style="font-family: 'Arial', sans-serif; color: #666;">📝 I regularly write articles on <a href="https://linkedin.com/in/anasmahmood000">LinkedIn</a></p>
+  <p style="font-family: 'Arial', sans-serif; color: #666;">💬 Ask me about anything</p>
+  <p style="font-family: 'Arial', sans-serif; color: #666;">📫 How to reach me: <a href="mailto:anas.aiengineer@gmail.com">anas.aiengineer@gmail.com</a></p>
+  <p style="font-family: 'Arial', sans-serif; color: #666;">⚡ Fact about me: Hard worker as well as Smart worker</p>
+</div>
 
 <!-- Connect with Me Heading -->
-<h3 style="font-family: 'Arial', sans-serif; color: #555; text-align: center;">Connect with me:</h3>
+<div align="center">
+  <h3 style="font-family: 'Arial', sans-serif; color: #444;">Connect with me:</h3>
+</div>
 
 <!-- Connect with Me Buttons -->
 <p align="center">
@@ -49,19 +57,39 @@
 </p>
 
 <!-- Languages and Tools Heading -->
-<h3 style="font-family: 'Arial', sans-serif; color: #555; text-align: center;">Languages and Tools:</h3>
+<div align="center">
+  <h3 style="font-family: 'Arial', sans-serif; color: #444;">Languages and Tools:</h3>
+</div>
 
-<!-- Languages and Tools Icons with Box Styles -->
+<!-- Languages and Tools Icons with Round Boxes -->
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border-radius: 10px; background-color: #F8F8F8; padding: 5px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="border-radius: 10px; background-color: #F8F8F8; padding: 5px; margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" style="border-radius: 10px; background-color: #F8F8F8; padding: 5px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="border-radius: 10px; background-color: #F8F8F8; padding: 5px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="border-radius: 10px; background-color: #F8F8F8; padding: 5px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border-radius: 10px; background-color: #F8F8F8; padding: 5px; margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" style="border-radius: 10px; background-color: #F8F8F8; padding: 5px; margin: 5px;" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" style="border-radius: 10px; background-color: #F8F8F8; padding: 5px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40" style="border-radius: 10px; background-color: #F8F8F8; padding: 5px; margin: 5px;" />
+  <div style="background-color: #FFF; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </div>
+  <div style="background-color: #FFF; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </div>
+  <div style="background-color: #FFF; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
+  </div>
+  <div style="background-color: #FFF; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </div>
+  <div style="background-color: #FFF; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  </div>
+  <div style="background-color: #FFF; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </div>
+  <div style="background-color: #FFF; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
+  </div>
+  <div style="background-color: #FFF; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+  </div>
+  <div style="background-color: #FFF; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40" />
+  </div>
 </p>
 
 <!-- GitHub Stats and Charts -->
