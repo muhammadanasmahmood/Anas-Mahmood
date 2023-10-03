@@ -16,8 +16,17 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://twitter.com/iamanasmahmood" target="blank">
+  <a href="https://twitter.com/iamanasmahmood" target="_blank">
     <img src="https://img.shields.io/twitter/follow/iamanasmahmood?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <a href="https://linkedin.com/in/anasmahmood000" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/anasmahmood000" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-orange" alt="Kaggle" />
+  </a>
+  <a href="https://instagram.com/anas.art_works" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red" alt="Instagram" />
   </a>
 </p>
 
@@ -27,7 +36,7 @@
 - 👯 I’m looking to collaborate on Real World Data Science and AI Projects
 - 🤝 I’m looking for help with getting a Job
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Anas-Mahmood?tab=repositories)
-- 📝 I regularly write articles on [LinkedIn](https://linkedin.com/anasmahmood000)
+- 📝 I regularly write articles on [LinkedIn](https://linkedin.com/in/anasmahmood000)
 - 💬 Ask me about anything
 - 📫 How to reach me: [anas.aiengineer@gmail.com](mailto:anas.aiengineer@gmail.com)
 - ⚡ Fact about me: Hard worker as well as Smart worker
@@ -35,10 +44,18 @@
 <!-- Connect with Me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/iamanasmahmood" target="blank">
+  <a href="https://twitter.com/iamanasmahmood" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <!-- Add other social links here -->
+  <a href="https://linkedin.com/in/anasmahmood000" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/anasmahmood000" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/anas.art_works" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
 <!-- Languages and Tools -->
