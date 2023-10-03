@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Mahmood</h1>
 <h3 align="center">A passionate Artificial Intelligence(AI) Engineer from Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="anas-mahmood" /> </p>
+
 
 # 💫 About Me:
 🔭 I’m currently working on **something special**<br><br>🌱 I’m currently learning **Natural Language Processing(NLP)**<br><br>👯 I’m looking to collaborate on **Real World Data Science and AI Projects**<br><br>🤝 I’m looking for help with **getting a Job**<br><br>👨‍💻 All of my projects are available at [https://github.com/Anas-Mahmood?tab=repositories](https://github.com/Anas-Mahmood?tab=repositories)<br><br>📝 I regularly write articles on [https://linkedin.com/anasmahmood000](https://linkedin.com/anasmahmood000)<br><br>💬 Ask me about **anything**<br><br>📫 How to reach me **anas.aiengineer@gmail.com**<br><br>⚡ Fact about me **Hard worker as well as Smart worker.**
@@ -15,7 +15,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anas-mahmood&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://komarev.com/ghpvc/?username=anas-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="anas-mahmood")
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=radical&no-frame=false&no-bg=false&margin-w=4)
