@@ -24,11 +24,15 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
+</div>
 
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=anas-mahmood&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=anas-mahmood&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
 ---
 [![Profile Visits](https://visitcount.itsvg.in/api?id=anas-mahmood&icon=0&color=2)](https://visitcount.itsvg.in)
