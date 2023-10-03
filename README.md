@@ -16,7 +16,7 @@
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <div style="margin: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="max-width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;" />
     </div>
     <div style="margin: 5px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-mahmood&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%;" />
