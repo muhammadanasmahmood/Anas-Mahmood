@@ -26,9 +26,11 @@
   </div>
 </div>
 
-
+<div align="center">
+   <div style="display: flex; justify-content: center;">
+    <div style="margin: 5px;">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anas-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="anas-mahmood" /> </p>
-
+</div>
 
 ## 🏆 𝔾𝕀𝕋ℍ𝕌𝔹 𝕋ℝ𝕆ℙℍ𝕀𝔼𝕊:
 <div align="center">
@@ -47,4 +49,3 @@
 </div>
 
 ---
-[![Profile Visits](https://visitcount.itsvg.in/api?id=anas-mahmood&icon=0&color=2)](https://visitcount.itsvg.in)
