@@ -1,4 +1,3 @@
-<div style="background-color: hsla(50, 33%, 25%, .75); padding: 20px;">
 <h1 align="center">Hi 👋, I'm Anas Mahmood</h1>
 <h3 align="center">A passionate Artificial Intelligence(AI) Engineer from Pakistan.</h3>
 
@@ -46,6 +45,5 @@
 ## 🔝 𝕋𝕆ℙ ℂ𝕆ℕ𝕋ℝ𝕀𝔹𝕌𝕋𝔼𝔻 ℝ𝔼ℙ𝕆:
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=anas-mahmood&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
 </div>
 ---
