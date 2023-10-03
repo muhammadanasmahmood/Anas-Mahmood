@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Mahmood</h1>
 <h3 align="center">A passionate Artificial Intelligence(AI) Engineer from Pakistan.</h3>
 
-# 💫 About Me:
+# 💫 𝔸𝔹𝕆𝕌𝕋 𝕄𝔼:
 🔭 I’m currently working on **something special**<br><br>🌱 I’m currently learning **Natural Language Processing(NLP)**<br><br>👯 I’m looking to collaborate on **Real World Data Science and AI Projects**<br><br>🤝 I’m looking for help with **getting a Job**<br><br>👨‍💻 All of my projects are available at [https://github.com/Anas-Mahmood?tab=repositories](https://github.com/Anas-Mahmood?tab=repositories)<br><br>📝 I regularly write articles on [https://linkedin.com/anasmahmood000](https://linkedin.com/anasmahmood000)<br><br>💬 Ask me about **anything**<br><br>📫 How to reach me **anas.aiengineer@gmail.com**<br><br>⚡ Fact about me **Hard worker as well as Smart worker.**
 
 ## 🌐 Socials:
@@ -23,7 +23,14 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <div style="display: flex; justify-content: center;">
+    <div style="margin: 5px;">
+      <img src="https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    </div>
+    <div style="margin: 5px;">
+      <img src="https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    </div>
+  </div>
 </div>
 
 ## ✍️ Random Dev Quote
