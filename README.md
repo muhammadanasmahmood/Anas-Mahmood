@@ -7,38 +7,54 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/iamanasmahmood" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="iamanasmahmood" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="iamanasmahmood" height="40" width="50" />
   </a>
   <a href="https://linkedin.com/in/anasmahmood000" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="anasmahmood000" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="anasmahmood000" height="40" width="50" />
   </a>
   <a href="https://kaggle.com/anasmahmood000" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white" alt="anasmahmood000" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white" alt="anasmahmood000" height="40" width="50" />
   </a>
   <a href="https://fb.com/anasmahmood000" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="anasmahmood000" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="anasmahmood000" height="40" width="50" />
   </a>
   <a href="https://instagram.com/anas.art_works" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="anas.art_works" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/AnasMahmoodAI" target="blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="AnasMahmoodAI" height="30" width="40" />
-  </a>
-  <a href="https://www.twitch.tv/anas_mahmood_ai" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="anas_mahmood_ai" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/anas_ai_engineer" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white" alt="anas_ai_engineer" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="anas.art_works" height="40" width="50" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="40"/>
   </a>
-  <!-- Add more icons here -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="40"/>
+  </a>
+  <!-- Add more "Languages and Tools" icons here -->
 </p>
+
 
 
 ## 📊 𝔾𝕀𝕋ℍ𝕌𝔹 𝕊𝕋𝔸𝕋𝕊:
