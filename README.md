@@ -15,8 +15,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anas-mahmood&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://komarev.com/ghpvc/?username=anas-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="anas-mahmood")
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-mahmood&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-mahmood&label=Profile%20views&color=0e75b6&style=flat" alt="anas-mahmood" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anas-mahmood&theme=radical&no-frame=false&no-bg=false&margin-w=4)
