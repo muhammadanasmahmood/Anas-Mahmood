@@ -1,8 +1,10 @@
-<div align="center">
+<div style="text-align: center;">
   <h1>Hi 👋, I'm Anas Mahmood</h1>
   <h3>A passionate Artificial Intelligence(AI) Engineer from Pakistan.</h3>
+</div>
 
-  <p align="center">
+<div style="text-align: center;">
+  <p>
     🔭 I’m currently working on **something special**<br><br>
     🌱 I’m currently learning **Natural Language Processing(NLP)**<br><br>
     👯 I’m looking to collaborate on **Real World Data Science and AI Projects**<br><br>
@@ -15,7 +17,7 @@
   </p>
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   <p>
     [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anasmahmood000)
     [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anas.art_works)
@@ -24,7 +26,7 @@
   </p>
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   <p>
     ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
